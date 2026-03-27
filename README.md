@@ -1,5 +1,4 @@
-# Smart-AI-Resume-Analyzer
-Smart AI Resume Analyzer is a Streamlit-based application that performs PDF text extraction and AI-driven resume analysis. It uses NLP and keyword matching techniques to evaluate candidate skills and compute a job compatibility score. The application stores data in a SQLite database and presents results through an interactive dashboard interface.
+
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
 <img src="https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
@@ -617,3 +616,5 @@ If you appreciate this repository and want to show your support, you can do so t
 | **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
+#   S m a r t - A I - R e s u m e - A n a l y z e r  
+ 
